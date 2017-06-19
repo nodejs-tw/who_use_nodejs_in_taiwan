@@ -13,8 +13,8 @@
 - [Eatgether](https://eatgether.com/) - 新創聚餐交友平台
 - [104人力銀行](https://www.104.com.tw/) - 人力銀行
 - [KKBOX](https://www.kkbox.com/tw/) - KKBOX
-- [布洛卡斯](http://brocas.com.tw/) - 布洛卡斯
-- [Fandora](https://fandorashop.com/tw/) - Fandora
+- [FandoraShop](https://fandorashop.com/tw/) - 新創授權圖像商城
+- [布洛卡斯](http://brocas.com.tw/) - 軟體服務
 
 ## 有在本地提供服務的跨國企業
 
