@@ -15,6 +15,7 @@
 - [KKBOX](https://www.kkbox.com/tw/) - KKBOX
 - [FandoraShop](https://fandorashop.com/tw/) - 新創授權圖像商城
 - [布洛卡斯](http://brocas.com.tw/) - 軟體服務
+- [創科資訊](http://trunk-studio.com/) - 協助新創打造平台的軟體開發團隊
 
 ## 有在本地提供服務的跨國企業
 
