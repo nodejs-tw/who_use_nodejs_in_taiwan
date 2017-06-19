@@ -23,6 +23,8 @@
 - [Intel](http://intel.com/) - Node.js Foundation Member
 - [Google](https://google.com/) - Node.js Foundation Member
 - [Yahoo](https://yahoo.com/) - Node.js Foundation Member
+- [Uber](https://www.uber.com/zh-TW/) - 知名汽車共享平台
+- [Netflix](https://www.netflix.com/tw/) - 知名影片串流服務
 
 # --
 
