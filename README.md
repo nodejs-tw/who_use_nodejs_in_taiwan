@@ -8,7 +8,7 @@
 
 ~不過其實，會用的就是會用，不會用的就算這份清單上有兩億家公司也沒用~
 
-# --
+## 本地企業
 
 - [Eatgether](https://eatgether.com/) - 新創聚餐交友平台
 - [104人力銀行](https://www.104.com.tw/) - 人力銀行
@@ -16,6 +16,13 @@
 - [布洛卡斯](http://brocas.com.tw/) - 布洛卡斯
 - [Fandora](https://fandorashop.com/tw/) - Fandora
 
+## 有在本地提供服務的跨國企業
+
+- [IBM](http://ibm.com/) - Node.js Foundation Member
+- [Microsoft](https://microsoft.com/) - Node.js Foundation Member
+- [Intel](http://intel.com/) - Node.js Foundation Member
+- [Google](https://google.com/) - Node.js Foundation Member
+- [Yahoo](https://yahoo.com/) - Node.js Foundation Member
 
 # --
 
